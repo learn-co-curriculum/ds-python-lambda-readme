@@ -1,1 +1,0 @@
-# ds-python-lambda-readme
